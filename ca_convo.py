@@ -184,7 +184,7 @@ class ChatSession:
                 model=self.model,
                 temperature=0,
                 messages=messages,
-                max_tokens=1200
+                max_tokens=2000
             )
             return resp.choices[0].message.content
         except Exception as e:

@@ -176,7 +176,7 @@ Answer:"""
             model=CHAT_MODEL,
             temperature=0.1,
             messages=messages,
-            max_tokens=1200  # Increased for comprehensive responses
+            max_tokens=2000  # Increased for comprehensive responses
         )
         answer = resp.choices[0].message.content
     except Exception as e:

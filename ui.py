@@ -278,7 +278,7 @@ def call_model(client, model: str, system_prompt: str, messages: List[Dict[str, 
             model=model,
             temperature=0,
             messages=full_messages,
-            max_tokens=1200
+            max_tokens=2000
         )
         
         return resp.choices[0].message.content

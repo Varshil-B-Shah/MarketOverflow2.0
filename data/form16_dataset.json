@@ -1,0 +1,99 @@
+{
+    "Definition & Purpose": {
+        "Definition": "Form 16 is a TDS certificate issued by employers under Section 203 of the Income Tax Act.",
+        "Purpose": "Serves as proof of income and tax deducted, essential for filing Income Tax Returns (ITR)."
+    },
+    "Components of Form 16": {
+        "Part A": {
+            "Details": [
+                "Employer & employee details (Name, PAN, TAN)",
+                "Period of employment",
+                "Quarterly TDS summary",
+                "Date of TDS deposit"
+            ]
+        },
+        "Part B": {
+            "Details": [
+                "Salary breakup",
+                "Exemptions under Section 10",
+                "Deductions under Chapter VI-A",
+                "Estimated tax liability",
+                "Relief under Section 89"
+            ]
+        }
+    },
+    "Eligibility & Issuance": {
+        "Eligibility": "Salaried individuals whose income exceeds the exemption limit (₹2.5L under old regime, ₹3L under new regime).",
+        "Issuance": "Must be issued by 15th June of the assessment year. Not mandatory for ITR filing but highly recommended."
+    },
+    "Download Instructions": {
+        "Portal": "TRACES",
+        "Steps": [
+            "Login with PAN and password",
+            "Navigate to 'Downloads' → 'Form 16'",
+            "Select financial year, verify PAN/TDS",
+            "Enter TDS receipt number and submit",
+            "Download Part A & B"
+        ]
+    },
+    "Password Formats": [
+        "PAN (lowercase) + DOB (DDMMYYYY)",
+        "PAN only (lowercase or uppercase)",
+        "DOB only"
+    ],
+    "Comparative Analysis": {
+        "Form 16 vs Form 16A": {
+            "Income Type": [
+                "Salary",
+                "Non-salary (interest, rent, etc.)"
+            ],
+            "Issuer": [
+                "Employer",
+                "Financial institutions, tenants"
+            ],
+            "Frequency": [
+                "Annual",
+                "Quarterly"
+            ],
+            "Section": [
+                "192",
+                "Various sections"
+            ]
+        },
+        "Form 16 vs Form 26AS": {
+            "Issuer": [
+                "Employer",
+                "Income Tax Department"
+            ],
+            "Content": [
+                "Salary TDS",
+                "All TDS/TCS, advance tax, high-value transactions"
+            ],
+            "Frequency": [
+                "Annual",
+                "Updated periodically"
+            ],
+            "Use": [
+                "Proof of salary TDS",
+                "Consolidated tax credit statement"
+            ]
+        }
+    },
+    "Digital Benefits": [
+        "Auto-generated via TRACES ensures accuracy",
+        "Faster refunds",
+        "Enhanced security",
+        "Easier consolidation for job changers"
+    ],
+    "Verification Tips": [
+        "Verify PAN, salary, TDS amounts",
+        "Contact HR/Finance for corrections",
+        "Employer must revise TDS return if errors exist"
+    ],
+    "Consequences of Mismatch": [
+        "Defective return notices",
+        "Denied refunds",
+        "Additional tax liability",
+        "Resolution via employer or grievance portal"
+    ]
+}

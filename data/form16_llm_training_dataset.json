@@ -1,0 +1,42 @@
+{
+    "Core Concepts": {
+        "Definition": "Form 16 is a TDS certificate issued by employers under Section 203 of the Income Tax Act.",
+        "Purpose": "Serves as proof of income and tax deducted, and is a key document for filing Income Tax Returns (ITR).",
+        "Structure": {
+            "Part A": "Contains employer and employee details, PAN/TAN, and TDS summary.",
+            "Part B": "Includes salary breakdown, exemptions, deductions, and estimated tax liability."
+        }
+    },
+    "Usage & Importance": [
+        "Required for salaried individuals whose income exceeds the exemption limit.",
+        "Can be used for loan applications and as income proof.",
+        "Not mandatory for filing ITR but highly recommended."
+    ],
+    "Download Instructions": [
+        "Employers can download Form 16 from the TRACES portal using PAN and password.",
+        "Step-by-step instructions are provided for login, verification, and download."
+    ],
+    "Password Formats": [
+        "PAN in lowercase + DOB (DDMMYYYY)",
+        "PAN only (lowercase or uppercase)",
+        "DOB only"
+    ],
+    "Comparisons": {
+        "Form 16 vs Form 16A vs Form 16B": "Differ by income type (salary, other income, property sale).",
+        "Form 16 vs Form 26AS": "Form 16 is employer-issued; Form 26AS is issued by the Income Tax Department and includes broader tax data."
+    },
+    "Digital Benefits": [
+        "Enhanced accuracy and security",
+        "Faster refund processing",
+        "Easier consolidation for job changers"
+    ],
+    "Verification Tips": [
+        "Employees must verify all details in Form 16 and contact HR/Finance for corrections."
+    ],
+    "Image Descriptions": [
+        "Tax calculators (Old vs New Regime)",
+        "Step-by-step download flowcharts",
+        "Comparison tables (Form 16 vs 16A vs 16B, Form 16 vs 26AS)",
+        "Infographics on benefits of digital Form 16"
+    ]
+}

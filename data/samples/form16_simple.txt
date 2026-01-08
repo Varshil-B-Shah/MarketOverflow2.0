@@ -1,0 +1,39 @@
+FORM 16 - PART A (SIMPLE SAMPLE)
+Financial Year: 2024-25
+Employer Name: Acme Tech Pvt Ltd
+Employer TAN: BLRA12345F
+Employer PAN: AAAAA1234A
+Employee Name: Rahul Verma
+Employee PAN: ABCPV1234K
+Period of Employment: 01-Apr-2024 to 31-Mar-2025
+Quarterly TDS Summary:
+ Q1 TDS: 15000 (Challan: 28-06-2024)
+ Q2 TDS: 15000 (Challan: 28-09-2024)
+ Q3 TDS: 15000 (Challan: 28-12-2024)
+ Q4 TDS: 15000 (Challan: 28-03-2025)
+Total TDS Deposited: 60000
+
+PART B
+Gross Salary Components:
+ Basic Salary: 600000
+ HRA: 240000
+ Special Allowance: 60000
+ Gross Salary Total: 900000
+Exempt Allowances (Section 10):
+ HRA Exempt: 120000
+Standard Deduction: 50000
+Chapter VI-A Deductions:
+ 80C (PF + ELSS): 120000
+ 80D (Health Insurance): 20000
+Total Chapter VI-A: 140000
+Taxable Income Computation:
+ Gross Salary: 900000
+ Less Exempt HRA: 120000 -> 780000
+ Less Standard Deduction: 50000 -> 730000
+ Less Chapter VI-A: 140000 -> 590000
+Tax Liability (Old Regime Slabs Applied Approx): 25000
+Relief u/s 89: 0
+Net Tax Payable: 25000
+TDS Deducted: 60000
+Refund Due: 35000
+Verification: Digitally Signed

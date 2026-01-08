@@ -1,0 +1,87 @@
+FORM 16 - PART A (COMPLEX SAMPLE)
+Financial Year: 2024-25
+Employer Name: Nimbus Analytics India LLP
+Employer TAN: MUMB56789L
+Employer PAN: BBBBB2345B
+Employee Name: Ananya Iyer
+Employee PAN: AHCPI5678Q
+Employee Category: Resident Individual (<60)
+Period of Employment: 01-Apr-2024 to 31-Mar-2025
+Previous Employer (Apr-Jun): PriorSoft Solutions Pvt Ltd (TDS Brought Forward: 32000)
+Quarterly TDS Summary (Current Employer Only):
+ Q1 TDS: 18000 (Challan: 07-07-2024)
+ Q2 TDS: 22000 (Challan: 07-10-2024)
+ Q3 TDS: 22000 (Challan: 07-01-2025)
+ Q4 TDS: 21000 (Challan: 07-04-2025)
+Total TDS (Current Employer): 83000
+Consolidated TDS (Including Previous Employer): 115000
+
+PART B
+Salary Components (Annualized):
+ Basic Salary: 900000
+ HRA: 420000
+ Leave Travel Allowance: 60000
+ Performance Bonus: 150000
+ Special Allowance: 180000
+ Employer PF Contribution: 108000
+ Taxable Perquisites (Car + Food Coupons): 48000
+ Gross Salary Total: 1866000
+
+Exempt Allowances / Perquisites:
+ LTA (Eligible Submitted Bills): 30000
+ HRA Exemption (to compute) - Inputs:
+  - City: Mumbai (Metro)
+  - Annual Rent Paid: 360000
+  - Months Rented: 12
+  - Landlord PAN: RENTP1234Z
+  - Salary for HRA (Basic + DA considered = Basic only here): 900000
+Standard Deduction: 50000
+
+Chapter VI-A Deductions:
+ 80C (PF 108000 + ELSS 40000 + Term Insurance 7000): 155000 (Cap to 150000)
+ 80D (Self 18000 + Parents (Senior) 48000): 66000 (Allowed: 18000 + 50000 cap => 68000 theoretical; using 66000 claimed) -> Allowed 66000
+ 80E (Education Loan Interest): 42000
+ 80G (Donation to PMNRF): 25000 (100% deduction without limit)
+ NPS 80CCD(1B): 50000
+Total Chapter VI-A (Before Caps): 328000
+Total Chapter VI-A (Allowed): 333000 (Breakdown: 150000 + 66000 + 42000 + 25000 + 50000)
+
+Provisional HRA Exemption Calculation (Metro):
+ Actual HRA Received: 420000
+ 50% of Salary: 450000
+ Rent - 10% Salary: 360000 - 90000 = 270000
+ HRA Exempt = Minimum = 270000
+ Taxable HRA = 420000 - 270000 = 150000
+
+Taxable Income Derivation:
+ Gross Salary: 1866000
+ Less Exempt LTA: 30000 -> 1836000
+ Less HRA Exempt: 270000 -> 1566000
+ Less Standard Deduction: 50000 -> 1516000
+ Less Chapter VI-A: 333000 -> 1183000
+
+Relief u/s 89 (Arrears Component in Bonus): 0
+Total Taxable Income (Rounded): 1183000
+Old Regime Approx Tax (Illustrative Slabs):
+ 0-2.5L: 0
+ 2.5-5L @5%: 12500
+ 5-10L @20%: 100000
+ 10-11.83L @30%: 54900
+ Sub-Total: 167400
+ Add Cess @4%: 6696
+ Total: 174096
+TDS Deducted (Consolidated): 115000
+Estimated Additional Tax Payable: 59096
+
+New Regime (Illustrative Inputs - confirm slabs):
+ Standard Deduction (if applicable): 75000 (Confirm FY)
+ No 80C/80D/others (Not allowed except NPS employer if any - none listed)
+ Taxable Base (Estimate) ~ 1866000 - 270000 (HRA not exempt) - 30000 (LTA not exempt) - 75000 (Std Ded) = 1491000 (Need confirmation: LTA & HRA non-exempt) -> Compute with actual slabs.
+
+Pending Clarifications:
+ - Confirm standard deduction under new regime for FY 2024-25
+ - Any employer NPS contribution?
+ - Any capital gains or other income not reflected?
+ - Whether opting for old or new regime declaration.
+
+Disclaimer: Synthetic sample for validation workflows.

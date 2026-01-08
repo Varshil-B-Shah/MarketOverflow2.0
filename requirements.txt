@@ -1,0 +1,9 @@
+openai
+azure-identity
+tiktoken
+numpy
+scikit-learn
+fastapi
+uvicorn
+streamlit
+python-dotenv
